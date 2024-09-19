@@ -1,0 +1,35 @@
+a) 1, 3, 5, 7, ___
+Esta sequência é de números ímpares consecutivos.
+
+Lógica: Incremento de 2.
+Próximo elemento: 9
+
+b) 2, 4, 8, 16, 32, 64, ____
+Esta sequência é de potências de 2.
+
+Lógica: Cada número é o dobro do anterior.
+Próximo elemento: 128
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+Esta sequência é de quadrados perfeitos.
+
+Lógica: ( n^2 ) onde ( n ) é um número inteiro.
+Próximo elemento: 49 (7^2)
+
+d) 4, 16, 36, 64, ____
+Esta sequência é de quadrados de números pares.
+
+Lógica: ( (2n)^2 ) onde ( n ) é um número inteiro.
+Próximo elemento: ((2*5)^2) = 100
+
+e) 1, 1, 2, 3, 5, 8, ____
+Esta sequência é a sequência de Fibonacci.
+
+Lógica: Cada número é a soma dos dois anteriores.
+Próximo elemento: 13 (5 + 8)
+
+f) 2, 10, 12, 16, 17, 18, 19, ____
+Esta sequência parece misturar números pares e ímpares, mas com uma lógica específica.
+
+Lógica: Alterna entre adicionar 8, 2, 4 e 1.
+Próximo elemento: Seguindo a lógica dos 3 últimos o próximo deve ser 20.
